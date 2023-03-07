@@ -1,0 +1,11 @@
+.bigbrand{
+  font-size: 1.5em;
+}
+
+body{
+  margin: 0;
+  overflow: hidden;
+  background-color: white;
+  color: black;
+
+}
